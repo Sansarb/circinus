@@ -75,9 +75,7 @@
 
 <div id="gdp-growth" class="section level1">
 <h1>GDP Growth</h1>
-<pre class="r"><code>
-library(dplyr)
-## 
+<pre><code>## 
 ## Attaching package: &#39;dplyr&#39;
 ## The following objects are masked from &#39;package:stats&#39;:
 ## 
@@ -85,52 +83,15 @@ library(dplyr)
 ## The following objects are masked from &#39;package:base&#39;:
 ## 
 ##     intersect, setdiff, setequal, union
-library(ggplot2)
-library(viridis)
 ## Loading required package: viridisLite
-#library(hrbrthemes)
-#library(tree)
-#library(treemapify)
-
-
-gdp_2015 &lt;- 
-  read.csv(&quot;data/gdp_production_2015.csv&quot;) %&gt;% 
-  select(Sector, CODE1, PERIOD, DTVAL_CO) %&gt;%
-  arrange(desc(PERIOD, CODE1)) %&gt;% 
-  mutate(DTVAL_CO_LAG = lead(DTVAL_CO, 44)) %&gt;%
-  mutate(QoQ = round((DTVAL_CO/DTVAL_CO_LAG-1)*100,1)) %&gt;% 
-  filter(PERIOD&gt;=&quot;2016-03-31&quot;, CODE1!=1) %&gt;%
-  group_by(PERIOD) %&gt;%
-  mutate(share = DTVAL_CO_LAG/sum(DTVAL_CO_LAG)) %&gt;%
-  mutate(share_qoq = round(QoQ*share,1)) %&gt;%
-  mutate(growth = ifelse(share_qoq&lt;0, &quot;negative&quot;, &quot;positive&quot;))
-
-gdp_plot &lt;- 
-  ggplot(
-    data = gdp_2015,
-    aes(
-      x = PERIOD,
-      y = share_qoq,
-      fill = Sector
-      )
-  ) + 
-  geom_bar(
-    stat = &quot;identity&quot;,
-    position = &quot;stack&quot;, 
-  ) +
-  labs(title = &quot;GROSS DOMESTIC GROWTH&quot;,
-       subtitle = &quot;Quarterly YoY Growth (%)&quot;,
-       x=&quot;&quot;, y=&quot;&quot;, 
-       caption = &quot;@sansar_b, Data Source: National Statistic Office Of Mongolia&quot;) +
-  theme_classic() + 
-  theme(
-    #plot.title = element_text(size = 12, face = &quot;bold&quot;),
-    legend.title = element_text(size = 9),
-    legend.text = element_text(size = 8)
-    )
-
-gdp_plot</code></pre>
-<p><img src="https://sansarb.github.io/circinus/2020/12/01/gdp-growth/index_files/figure-html/gdp_2015-1.png" width="672" /></p>
+## Warning: package &#39;hrbrthemes&#39; was built under R version 4.1.3
+## NOTE: Either Arial Narrow or Roboto Condensed fonts are required to use these themes.
+##       Please use hrbrthemes::import_roboto_condensed() to install Roboto Condensed and
+##       if Arial Narrow is not on your system, please see https://bit.ly/arialnarrow</code></pre>
+<p># GDP Growth</p>
+<pre class="r"><code>
+plot_2022Q1</code></pre>
+<p><img src="https://sansarb.github.io/circinus/2020/12/01/gdp-growth/index_files/figure-html/unnamed-chunk-2-1.png" width="672" /></p>
 </div>
 
     </div>

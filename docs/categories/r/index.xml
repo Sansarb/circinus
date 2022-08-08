@@ -6,14 +6,14 @@
     <description>Recent content in R on A Hugo website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 01 Dec 2020 21:13:14 -0500</lastBuildDate><atom:link href="https://sansarb.github.io/circinus/categories/r/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 17 May 2022 21:13:14 -0500</lastBuildDate><atom:link href="https://sansarb.github.io/circinus/categories/r/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>GDP Growth</title>
-      <link>https://sansarb.github.io/circinus/2020/12/01/gdp-growth/</link>
-      <pubDate>Tue, 01 Dec 2020 21:13:14 -0500</pubDate>
+      <title>Q1 GDP Growth</title>
+      <link>https://sansarb.github.io/circinus/2022/05/17/q1-gdp-growth/</link>
+      <pubDate>Tue, 17 May 2022 21:13:14 -0500</pubDate>
       
-      <guid>https://sansarb.github.io/circinus/2020/12/01/gdp-growth/</guid>
-      <description>GDP Growthlibrary(dplyr)## ## Attaching package: &amp;#39;dplyr&amp;#39;## The following objects are masked from &amp;#39;package:stats&amp;#39;:## ## filter, lag## The following objects are masked from &amp;#39;package:base&amp;#39;:## ## intersect, setdiff, setequal, unionlibrary(ggplot2)library(viridis)## Loading required package: viridisLite#library(hrbrthemes)#library(tree)#library(treemapify)gdp_2015 &amp;lt;- read.csv(&amp;quot;data/gdp_production_2015.csv&amp;quot;) %&amp;gt;% select(Sector, CODE1, PERIOD, DTVAL_CO) %&amp;gt;%arrange(desc(PERIOD, CODE1)) %&amp;gt;% mutate(DTVAL_CO_LAG = lead(DTVAL_CO, 44)) %&amp;gt;%mutate(QoQ = round((DTVAL_CO/DTVAL_CO_LAG-1)*100,1)) %&amp;gt;% filter(PERIOD&amp;gt;=&amp;quot;2016-03-31&amp;quot;, CODE1!=1) %&amp;gt;%group_by(PERIOD) %&amp;gt;%mutate(share = DTVAL_CO_LAG/sum(DTVAL_CO_LAG)) %&amp;gt;%mutate(share_qoq = round(QoQ*share,1)) %&amp;gt;%mutate(growth = ifelse(share_qoq&amp;lt;0, &amp;quot;negative&amp;quot;, &amp;quot;positive&amp;quot;))gdp_plot &amp;lt;- ggplot(data = gdp_2015,aes(x = PERIOD,y = share_qoq,fill = Sector)) + geom_bar(stat = &amp;quot;identity&amp;quot;,position = &amp;quot;stack&amp;quot;, ) +labs(title = &amp;quot;GROSS DOMESTIC GROWTH&amp;quot;,subtitle = &amp;quot;Quarterly YoY Growth (%)&amp;quot;,x=&amp;quot;&amp;quot;, y=&amp;quot;&amp;quot;, caption = &amp;quot;@sansar_b, Data Source: National Statistic Office Of Mongolia&amp;quot;) +theme_classic() + theme(#plot.</description>
+      <guid>https://sansarb.github.io/circinus/2022/05/17/q1-gdp-growth/</guid>
+      <description></description>
     </item>
     
   </channel>

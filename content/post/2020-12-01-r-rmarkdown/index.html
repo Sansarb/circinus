@@ -1,7 +1,7 @@
 ---
-title: "GDP Growth"
-author: "Frida Gomam"
-date: '2020-12-01T21:13:14-05:00'
+title: "Q1 GDP Growth"
+author: "Sansar.B"
+date: '2022-05-17T21:13:14-05:00'
 categories: R
 tags:
 - R Markdown
@@ -11,62 +11,4 @@ tags:
 
 
 
-<div id="gdp-growth" class="section level1">
-<h1>GDP Growth</h1>
-<pre class="r"><code>
-library(dplyr)
-## 
-## Attaching package: &#39;dplyr&#39;
-## The following objects are masked from &#39;package:stats&#39;:
-## 
-##     filter, lag
-## The following objects are masked from &#39;package:base&#39;:
-## 
-##     intersect, setdiff, setequal, union
-library(ggplot2)
-library(viridis)
-## Loading required package: viridisLite
-#library(hrbrthemes)
-#library(tree)
-#library(treemapify)
-
-
-gdp_2015 &lt;- 
-  read.csv(&quot;data/gdp_production_2015.csv&quot;) %&gt;% 
-  select(Sector, CODE1, PERIOD, DTVAL_CO) %&gt;%
-  arrange(desc(PERIOD, CODE1)) %&gt;% 
-  mutate(DTVAL_CO_LAG = lead(DTVAL_CO, 44)) %&gt;%
-  mutate(QoQ = round((DTVAL_CO/DTVAL_CO_LAG-1)*100,1)) %&gt;% 
-  filter(PERIOD&gt;=&quot;2016-03-31&quot;, CODE1!=1) %&gt;%
-  group_by(PERIOD) %&gt;%
-  mutate(share = DTVAL_CO_LAG/sum(DTVAL_CO_LAG)) %&gt;%
-  mutate(share_qoq = round(QoQ*share,1)) %&gt;%
-  mutate(growth = ifelse(share_qoq&lt;0, &quot;negative&quot;, &quot;positive&quot;))
-
-gdp_plot &lt;- 
-  ggplot(
-    data = gdp_2015,
-    aes(
-      x = PERIOD,
-      y = share_qoq,
-      fill = Sector
-      )
-  ) + 
-  geom_bar(
-    stat = &quot;identity&quot;,
-    position = &quot;stack&quot;, 
-  ) +
-  labs(title = &quot;GROSS DOMESTIC GROWTH&quot;,
-       subtitle = &quot;Quarterly YoY Growth (%)&quot;,
-       x=&quot;&quot;, y=&quot;&quot;, 
-       caption = &quot;@sansar_b, Data Source: National Statistic Office Of Mongolia&quot;) +
-  theme_classic() + 
-  theme(
-    #plot.title = element_text(size = 12, face = &quot;bold&quot;),
-    legend.title = element_text(size = 9),
-    legend.text = element_text(size = 8)
-    )
-
-gdp_plot</code></pre>
-<p><img src="{{< blogdown/postref >}}index_files/figure-html/gdp_2015-1.png" width="672" /></p>
-</div>
+<p><img src="{{< blogdown/postref >}}index_files/figure-html/unnamed-chunk-1-1.png" width="672" /></p>

@@ -1,7 +1,7 @@
 ---
-title: "GDP Growth"
-author: "Frida Gomam"
-date: '2020-12-01T21:13:14-05:00'
+title: "Q1 GDP Growth"
+author: "Sansar.B"
+date: '2022-05-17T21:13:14-05:00'
 categories: R
 tags:
 - R Markdown
@@ -13,14 +13,12 @@ tags:
 knitr::opts_chunk$set(collapse = TRUE)
 ```
 
-# GDP Growth
-
-```{r gdp_2015}
+```{r, echo=FALSE, warning=FALSE, message=FALSE}
 
 library(dplyr)
 library(ggplot2)
 library(viridis)
-#library(hrbrthemes)
+library(hrbrthemes)
 #library(tree)
 #library(treemapify)
 
@@ -37,32 +35,44 @@ gdp_2015 <-
   mutate(share_qoq = round(QoQ*share,1)) %>%
   mutate(growth = ifelse(share_qoq<0, "negative", "positive"))
 
-gdp_plot <- 
+gdp_2015_2022Q1 <-
+  gdp_2015 %>%
+  filter(
+    PERIOD=="2022-03-31"
+  ) %>% 
+  mutate(growth = ifelse(share_qoq<0, "negative", "positive")) %>%
+  arrange(desc(share_qoq))
+
+
+plot_2022Q1 <-
   ggplot(
-    data = gdp_2015,
+    data = gdp_2015_2022Q1,
     aes(
-      x = PERIOD,
+      x = reorder(Sector, share_qoq),
       y = share_qoq,
-      fill = Sector
-      )
-  ) + 
-  geom_bar(
-    stat = "identity",
-    position = "stack", 
-  ) +
-  labs(title = "GROSS DOMESTIC GROWTH",
-       subtitle = "Quarterly YoY Growth (%)",
-       x="", y="", 
-       caption = "@sansar_b, Data Source: National Statistic Office Of Mongolia") +
-  theme_classic() + 
-  theme(
-    #plot.title = element_text(size = 12, face = "bold"),
-    legend.title = element_text(size = 9),
-    legend.text = element_text(size = 8)
+      fill = growth
     )
+  ) + 
+  geom_bar(stat = "identity") + 
+  geom_text(
+    aes(
+      y= share_qoq + 0.2,
+      label=share_qoq,
+      ), 
+    size=2.5
+    ) +
+  labs(title = "GDP Growth (y/y): -3.8% in Q1 2022",
+       subtitle = "Sector Contribution to GDP Growth",
+       x="", y="", 
+       caption = "Data Source: National Statistic Office Of Mongolia") +
+  theme_classic() +
+  coord_flip() +
+  theme(legend.position = "none")
 
-gdp_plot
 
+plot_2022Q1
 
 ```
+
+
 
