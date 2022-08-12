@@ -1,0 +1,175 @@
+,TBL_ID,CODE1,SCR_MN1,SCR_ENG1,DTVAL_CO,PERIOD,Sector
+20,DT_NSO_0500_022V2,1,ДНБ,GDP,5626210.6,2022-03-31,GDP
+22,DT_NSO_0500_022V2,10101,"Өрхийн хэрэглээ, Өрхөд үйлчилдэг ашгийн бус байгууллагын хэрэглээ","Household consumption, NPISHs consumption",4461246.2,2022-03-31,Household consumption
+23,DT_NSO_0500_022V2,10102,Төрийн байгууллагын хэрэглээ,Government consumption,970779.8,2022-03-31,Government consumption
+24,DT_NSO_0500_022V2,102,Хөрөнгийн нийт хуримтлал,Gross capital formation,2196854.1,2022-03-31,Capital formation
+28,DT_NSO_0500_022V2,10301,"Бараа, үйлчилгээний экспорт",Exports of goods and services,2321258.8,2022-03-31,Exports
+29,DT_NSO_0500_022V2,10302,"Бараа, үйлчилгээний импорт",Imports of goods and services,4323928.3,2022-03-31,Imports
+50,DT_NSO_0500_022V2,1,ДНБ,GDP,26995440.678,2021-12-31,GDP
+52,DT_NSO_0500_022V2,10101,"Өрхийн хэрэглээ, Өрхөд үйлчилдэг ашгийн бус байгууллагын хэрэглээ","Household consumption, NPISHs consumption",16958749.674,2021-12-31,Household consumption
+53,DT_NSO_0500_022V2,10102,Төрийн байгууллагын хэрэглээ,Government consumption,5177439.044,2021-12-31,Government consumption
+54,DT_NSO_0500_022V2,102,Хөрөнгийн нийт хуримтлал,Gross capital formation,11426291.937,2021-12-31,Capital formation
+58,DT_NSO_0500_022V2,10301,"Бараа, үйлчилгээний экспорт",Exports of goods and services,11653853.385,2021-12-31,Exports
+59,DT_NSO_0500_022V2,10302,"Бараа, үйлчилгээний импорт",Imports of goods and services,18220893.361,2021-12-31,Imports
+80,DT_NSO_0500_022V2,1,ДНБ,GDP,19572150.439,2021-09-30,GDP
+82,DT_NSO_0500_022V2,10101,"Өрхийн хэрэглээ, Өрхөд үйлчилдэг ашгийн бус байгууллагын хэрэглээ","Household consumption, NPISHs consumption",12730500.219,2021-09-30,Household consumption
+83,DT_NSO_0500_022V2,10102,Төрийн байгууллагын хэрэглээ,Government consumption,3111366.218,2021-09-30,Government consumption
+84,DT_NSO_0500_022V2,102,Хөрөнгийн нийт хуримтлал,Gross capital formation,9009932.389,2021-09-30,Capital formation
+88,DT_NSO_0500_022V2,10301,"Бараа, үйлчилгээний экспорт",Exports of goods and services,8242197.82,2021-09-30,Exports
+89,DT_NSO_0500_022V2,10302,"Бараа, үйлчилгээний импорт",Imports of goods and services,13521846.307,2021-09-30,Imports
+110,DT_NSO_0500_022V2,1,ДНБ,GDP,12562456.0,2021-06-30,GDP
+112,DT_NSO_0500_022V2,10101,"Өрхийн хэрэглээ, Өрхөд үйлчилдэг ашгийн бус байгууллагын хэрэглээ","Household consumption, NPISHs consumption",8320606.2,2021-06-30,Household consumption
+113,DT_NSO_0500_022V2,10102,Төрийн байгууллагын хэрэглээ,Government consumption,2126305.7,2021-06-30,Government consumption
+114,DT_NSO_0500_022V2,102,Хөрөнгийн нийт хуримтлал,Gross capital formation,4786609.5,2021-06-30,Capital formation
+118,DT_NSO_0500_022V2,10301,"Бараа, үйлчилгээний экспорт",Exports of goods and services,5836253.2,2021-06-30,Exports
+119,DT_NSO_0500_022V2,10302,"Бараа, үйлчилгээний импорт",Imports of goods and services,8507318.7,2021-06-30,Imports
+150,DT_NSO_0500_022V2,1,ДНБ,GDP,5849126.2,2021-03-31,GDP
+152,DT_NSO_0500_022V2,10101,"Өрхийн хэрэглээ, Өрхөд үйлчилдэг ашгийн бус байгууллагын хэрэглээ","Household consumption, NPISHs consumption",4098657.4,2021-03-31,Household consumption
+153,DT_NSO_0500_022V2,10102,Төрийн байгууллагын хэрэглээ,Government consumption,948841.5,2021-03-31,Government consumption
+154,DT_NSO_0500_022V2,102,Хөрөнгийн нийт хуримтлал,Gross capital formation,1904450.1,2021-03-31,Capital formation
+158,DT_NSO_0500_022V2,10301,"Бараа, үйлчилгээний экспорт",Exports of goods and services,3123039.8,2021-03-31,Exports
+159,DT_NSO_0500_022V2,10302,"Бараа, үйлчилгээний импорт",Imports of goods and services,4225862.7,2021-03-31,Imports
+190,DT_NSO_0500_022V2,1,ДНБ,GDP,26622722.6,2020-12-31,GDP
+192,DT_NSO_0500_022V2,10101,"Өрхийн хэрэглээ, Өрхөд үйлчилдэг ашгийн бус байгууллагын хэрэглээ","Household consumption, NPISHs consumption",18153196.5,2020-12-31,Household consumption
+193,DT_NSO_0500_022V2,10102,Төрийн байгууллагын хэрэглээ,Government consumption,4897981.9,2020-12-31,Government consumption
+194,DT_NSO_0500_022V2,102,Хөрөнгийн нийт хуримтлал,Gross capital formation,6561374.2,2020-12-31,Capital formation
+198,DT_NSO_0500_022V2,10301,"Бараа, үйлчилгээний экспорт",Exports of goods and services,13634029.6,2020-12-31,Exports
+199,DT_NSO_0500_022V2,10302,"Бараа, үйлчилгээний импорт",Imports of goods and services,16623859.8,2020-12-31,Imports
+230,DT_NSO_0500_022V2,1,ДНБ,GDP,18928578.8,2020-09-30,GDP
+232,DT_NSO_0500_022V2,10101,"Өрхийн хэрэглээ, Өрхөд үйлчилдэг ашгийн бус байгууллагын хэрэглээ","Household consumption, NPISHs consumption",13894550.3,2020-09-30,Household consumption
+233,DT_NSO_0500_022V2,10102,Төрийн байгууллагын хэрэглээ,Government consumption,3382494.2,2020-09-30,Government consumption
+234,DT_NSO_0500_022V2,102,Хөрөнгийн нийт хуримтлал,Gross capital formation,5056990.1,2020-09-30,Capital formation
+238,DT_NSO_0500_022V2,10301,"Бараа, үйлчилгээний экспорт",Exports of goods and services,9060886.9,2020-09-30,Exports
+239,DT_NSO_0500_022V2,10302,"Бараа, үйлчилгээний импорт",Imports of goods and services,12466342.8,2020-09-30,Imports
+270,DT_NSO_0500_022V2,1,ДНБ,GDP,11831607.4,2020-06-30,GDP
+272,DT_NSO_0500_022V2,10101,"Өрхийн хэрэглээ, Өрхөд үйлчилдэг ашгийн бус байгууллагын хэрэглээ","Household consumption, NPISHs consumption",9166289.8,2020-06-30,Household consumption
+273,DT_NSO_0500_022V2,10102,Төрийн байгууллагын хэрэглээ,Government consumption,2304868.5,2020-06-30,Government consumption
+274,DT_NSO_0500_022V2,102,Хөрөнгийн нийт хуримтлал,Gross capital formation,3308504.8,2020-06-30,Capital formation
+278,DT_NSO_0500_022V2,10301,"Бараа, үйлчилгээний экспорт",Exports of goods and services,5120394.5,2020-06-30,Exports
+279,DT_NSO_0500_022V2,10302,"Бараа, үйлчилгээний импорт",Imports of goods and services,8068450.2,2020-06-30,Imports
+310,DT_NSO_0500_022V2,1,ДНБ,GDP,5081565.7,2020-03-31,GDP
+312,DT_NSO_0500_022V2,10101,"Өрхийн хэрэглээ, Өрхөд үйлчилдэг ашгийн бус байгууллагын хэрэглээ","Household consumption, NPISHs consumption",4637542.7,2020-03-31,Household consumption
+313,DT_NSO_0500_022V2,10102,Төрийн байгууллагын хэрэглээ,Government consumption,1061495.7,2020-03-31,Government consumption
+314,DT_NSO_0500_022V2,102,Хөрөнгийн нийт хуримтлал,Gross capital formation,1473833.2,2020-03-31,Capital formation
+318,DT_NSO_0500_022V2,10301,"Бараа, үйлчилгээний экспорт",Exports of goods and services,1716918.8,2020-03-31,Exports
+319,DT_NSO_0500_022V2,10302,"Бараа, үйлчилгээний импорт",Imports of goods and services,3808224.7,2020-03-31,Imports
+350,DT_NSO_0500_022V2,1,ДНБ,GDP,27836818.5,2019-12-31,GDP
+352,DT_NSO_0500_022V2,10101,"Өрхийн хэрэглээ, Өрхөд үйлчилдэг ашгийн бус байгууллагын хэрэглээ","Household consumption, NPISHs consumption",17787103.9,2019-12-31,Household consumption
+353,DT_NSO_0500_022V2,10102,Төрийн байгууллагын хэрэглээ,Government consumption,4273301.8,2019-12-31,Government consumption
+354,DT_NSO_0500_022V2,102,Хөрөнгийн нийт хуримтлал,Gross capital formation,11057252.8,2019-12-31,Capital formation
+358,DT_NSO_0500_022V2,10301,"Бараа, үйлчилгээний экспорт",Exports of goods and services,14391699.4,2019-12-31,Exports
+359,DT_NSO_0500_022V2,10302,"Бараа, үйлчилгээний импорт",Imports of goods and services,19672539.3,2019-12-31,Imports
+390,DT_NSO_0500_022V2,1,ДНБ,GDP,20126621.8,2019-09-30,GDP
+392,DT_NSO_0500_022V2,10101,"Өрхийн хэрэглээ, Өрхөд үйлчилдэг ашгийн бус байгууллагын хэрэглээ","Household consumption, NPISHs consumption",13103319.3,2019-09-30,Household consumption
+393,DT_NSO_0500_022V2,10102,Төрийн байгууллагын хэрэглээ,Government consumption,3006195.9,2019-09-30,Government consumption
+394,DT_NSO_0500_022V2,102,Хөрөнгийн нийт хуримтлал,Gross capital formation,7282673.0,2019-09-30,Capital formation
+398,DT_NSO_0500_022V2,10301,"Бараа, үйлчилгээний экспорт",Exports of goods and services,11273146.6,2019-09-30,Exports
+399,DT_NSO_0500_022V2,10302,"Бараа, үйлчилгээний импорт",Imports of goods and services,14538713.0,2019-09-30,Imports
+430,DT_NSO_0500_022V2,1,ДНБ,GDP,12793504.6,2019-06-30,GDP
+432,DT_NSO_0500_022V2,10101,"Өрхийн хэрэглээ, Өрхөд үйлчилдэг ашгийн бус байгууллагын хэрэглээ","Household consumption, NPISHs consumption",8619531.0,2019-06-30,Household consumption
+433,DT_NSO_0500_022V2,10102,Төрийн байгууллагын хэрэглээ,Government consumption,2098546.8,2019-06-30,Government consumption
+434,DT_NSO_0500_022V2,102,Хөрөнгийн нийт хуримтлал,Gross capital formation,4422423.8,2019-06-30,Capital formation
+438,DT_NSO_0500_022V2,10301,"Бараа, үйлчилгээний экспорт",Exports of goods and services,6994097.2,2019-06-30,Exports
+439,DT_NSO_0500_022V2,10302,"Бараа, үйлчилгээний импорт",Imports of goods and services,9341094.1,2019-06-30,Imports
+470,DT_NSO_0500_022V2,1,ДНБ,GDP,5481667.2,2019-03-31,GDP
+472,DT_NSO_0500_022V2,10101,"Өрхийн хэрэглээ, Өрхөд үйлчилдэг ашгийн бус байгууллагын хэрэглээ","Household consumption, NPISHs consumption",4348672.1,2019-03-31,Household consumption
+473,DT_NSO_0500_022V2,10102,Төрийн байгууллагын хэрэглээ,Government consumption,949989.7,2019-03-31,Government consumption
+474,DT_NSO_0500_022V2,102,Хөрөнгийн нийт хуримтлал,Gross capital formation,1643447.2,2019-03-31,Capital formation
+478,DT_NSO_0500_022V2,10301,"Бараа, үйлчилгээний экспорт",Exports of goods and services,2993351.5,2019-03-31,Exports
+479,DT_NSO_0500_022V2,10302,"Бараа, үйлчилгээний импорт",Imports of goods and services,4453793.2,2019-03-31,Imports
+510,DT_NSO_0500_022V2,1,ДНБ,GDP,26393886.3,2018-12-31,GDP
+512,DT_NSO_0500_022V2,10101,"Өрхийн хэрэглээ, Өрхөд үйлчилдэг ашгийн бус байгууллагын хэрэглээ","Household consumption, NPISHs consumption",16805721.2,2018-12-31,Household consumption
+513,DT_NSO_0500_022V2,10102,Төрийн байгууллагын хэрэглээ,Government consumption,3806835.6,2018-12-31,Government consumption
+514,DT_NSO_0500_022V2,102,Хөрөнгийн нийт хуримтлал,Gross capital formation,11037546.5,2018-12-31,Capital formation
+518,DT_NSO_0500_022V2,10301,"Бараа, үйлчилгээний экспорт",Exports of goods and services,12852368.5,2018-12-31,Exports
+519,DT_NSO_0500_022V2,10302,"Бараа, үйлчилгээний импорт",Imports of goods and services,18108585.4,2018-12-31,Imports
+550,DT_NSO_0500_022V2,1,ДНБ,GDP,18793047.0,2018-09-30,GDP
+552,DT_NSO_0500_022V2,10101,"Өрхийн хэрэглээ, Өрхөд үйлчилдэг ашгийн бус байгууллагын хэрэглээ","Household consumption, NPISHs consumption",12363186.4,2018-09-30,Household consumption
+553,DT_NSO_0500_022V2,10102,Төрийн байгууллагын хэрэглээ,Government consumption,2674562.1,2018-09-30,Government consumption
+554,DT_NSO_0500_022V2,102,Хөрөнгийн нийт хуримтлал,Gross capital formation,7274637.1,2018-09-30,Capital formation
+558,DT_NSO_0500_022V2,10301,"Бараа, үйлчилгээний экспорт",Exports of goods and services,10010607.3,2018-09-30,Exports
+559,DT_NSO_0500_022V2,10302,"Бараа, үйлчилгээний импорт",Imports of goods and services,13529945.9,2018-09-30,Imports
+590,DT_NSO_0500_022V2,1,ДНБ,GDP,11873949.6,2018-06-30,GDP
+592,DT_NSO_0500_022V2,10101,"Өрхийн хэрэглээ, Өрхөд үйлчилдэг ашгийн бус байгууллагын хэрэглээ","Household consumption, NPISHs consumption",8236244.7,2018-06-30,Household consumption
+593,DT_NSO_0500_022V2,10102,Төрийн байгууллагын хэрэглээ,Government consumption,1888397.7,2018-06-30,Government consumption
+594,DT_NSO_0500_022V2,102,Хөрөнгийн нийт хуримтлал,Gross capital formation,4198605.0,2018-06-30,Capital formation
+598,DT_NSO_0500_022V2,10301,"Бараа, үйлчилгээний экспорт",Exports of goods and services,6603137.4,2018-06-30,Exports
+599,DT_NSO_0500_022V2,10302,"Бараа, үйлчилгээний импорт",Imports of goods and services,9052435.3,2018-06-30,Imports
+630,DT_NSO_0500_022V2,1,ДНБ,GDP,5049209.4,2018-03-31,GDP
+632,DT_NSO_0500_022V2,10101,"Өрхийн хэрэглээ, Өрхөд үйлчилдэг ашгийн бус байгууллагын хэрэглээ","Household consumption, NPISHs consumption",4154622.8,2018-03-31,Household consumption
+633,DT_NSO_0500_022V2,10102,Төрийн байгууллагын хэрэглээ,Government consumption,879801.6,2018-03-31,Government consumption
+634,DT_NSO_0500_022V2,102,Хөрөнгийн нийт хуримтлал,Gross capital formation,1567757.7,2018-03-31,Capital formation
+638,DT_NSO_0500_022V2,10301,"Бараа, үйлчилгээний экспорт",Exports of goods and services,2888233.0,2018-03-31,Exports
+639,DT_NSO_0500_022V2,10302,"Бараа, үйлчилгээний импорт",Imports of goods and services,4441205.8,2018-03-31,Imports
+670,DT_NSO_0500_022V2,1,ДНБ,GDP,24533720.1,2017-12-31,GDP
+672,DT_NSO_0500_022V2,10101,"Өрхийн хэрэглээ, Өрхөд үйлчилдэг ашгийн бус байгууллагын хэрэглээ","Household consumption, NPISHs consumption",15041259.6,2017-12-31,Household consumption
+673,DT_NSO_0500_022V2,10102,Төрийн байгууллагын хэрэглээ,Government consumption,3765936.4,2017-12-31,Government consumption
+674,DT_NSO_0500_022V2,102,Хөрөнгийн нийт хуримтлал,Gross capital formation,7255537.6,2017-12-31,Capital formation
+678,DT_NSO_0500_022V2,10301,"Бараа, үйлчилгээний экспорт",Exports of goods and services,12116803.1,2017-12-31,Exports
+679,DT_NSO_0500_022V2,10302,"Бараа, үйлчилгээний импорт",Imports of goods and services,13645816.5,2017-12-31,Imports
+710,DT_NSO_0500_022V2,1,ДНБ,GDP,17606979.8,2017-09-30,GDP
+712,DT_NSO_0500_022V2,10101,"Өрхийн хэрэглээ, Өрхөд үйлчилдэг ашгийн бус байгууллагын хэрэглээ","Household consumption, NPISHs consumption",11190532.8,2017-09-30,Household consumption
+713,DT_NSO_0500_022V2,10102,Төрийн байгууллагын хэрэглээ,Government consumption,2673988.4,2017-09-30,Government consumption
+714,DT_NSO_0500_022V2,102,Хөрөнгийн нийт хуримтлал,Gross capital formation,4367896.1,2017-09-30,Capital formation
+718,DT_NSO_0500_022V2,10301,"Бараа, үйлчилгээний экспорт",Exports of goods and services,9089083.4,2017-09-30,Exports
+719,DT_NSO_0500_022V2,10302,"Бараа, үйлчилгээний импорт",Imports of goods and services,9714520.9,2017-09-30,Imports
+750,DT_NSO_0500_022V2,1,ДНБ,GDP,11090336.9,2017-06-30,GDP
+752,DT_NSO_0500_022V2,10101,"Өрхийн хэрэглээ, Өрхөд үйлчилдэг ашгийн бус байгууллагын хэрэглээ","Household consumption, NPISHs consumption",7139985.1,2017-06-30,Household consumption
+753,DT_NSO_0500_022V2,10102,Төрийн байгууллагын хэрэглээ,Government consumption,1862340.8,2017-06-30,Government consumption
+754,DT_NSO_0500_022V2,102,Хөрөнгийн нийт хуримтлал,Gross capital formation,2626182.1,2017-06-30,Capital formation
+758,DT_NSO_0500_022V2,10301,"Бараа, үйлчилгээний экспорт",Exports of goods and services,5652112.2,2017-06-30,Exports
+759,DT_NSO_0500_022V2,10302,"Бараа, үйлчилгээний импорт",Imports of goods and services,6190283.3,2017-06-30,Imports
+790,DT_NSO_0500_022V2,1,ДНБ,GDP,4740692.719,2017-03-31,GDP
+792,DT_NSO_0500_022V2,10101,"Өрхийн хэрэглээ, Өрхөд үйлчилдэг ашгийн бус байгууллагын хэрэглээ","Household consumption, NPISHs consumption",3379728.375,2017-03-31,Household consumption
+793,DT_NSO_0500_022V2,10102,Төрийн байгууллагын хэрэглээ,Government consumption,834862.256,2017-03-31,Government consumption
+794,DT_NSO_0500_022V2,102,Хөрөнгийн нийт хуримтлал,Gross capital formation,845022.421,2017-03-31,Capital formation
+798,DT_NSO_0500_022V2,10301,"Бараа, үйлчилгээний экспорт",Exports of goods and services,2645255.009,2017-03-31,Exports
+799,DT_NSO_0500_022V2,10302,"Бараа, үйлчилгээний импорт",Imports of goods and services,2964175.342,2017-03-31,Imports
+830,DT_NSO_0500_022V2,1,ДНБ,GDP,23240859.033,2016-12-31,GDP
+832,DT_NSO_0500_022V2,10101,"Өрхийн хэрэглээ, Өрхөд үйлчилдэг ашгийн бус байгууллагын хэрэглээ","Household consumption, NPISHs consumption",14421436.177,2016-12-31,Household consumption
+833,DT_NSO_0500_022V2,10102,Төрийн байгууллагын хэрэглээ,Government consumption,3856595.542,2016-12-31,Government consumption
+834,DT_NSO_0500_022V2,102,Хөрөнгийн нийт хуримтлал,Gross capital formation,5514070.933,2016-12-31,Capital formation
+838,DT_NSO_0500_022V2,10301,"Бараа, үйлчилгээний экспорт",Exports of goods and services,11685431.906,2016-12-31,Exports
+839,DT_NSO_0500_022V2,10302,"Бараа, үйлчилгээний импорт",Imports of goods and services,12236675.525,2016-12-31,Imports
+870,DT_NSO_0500_022V2,1,ДНБ,GDP,16535296.6,2016-09-30,GDP
+872,DT_NSO_0500_022V2,10101,"Өрхийн хэрэглээ, Өрхөд үйлчилдэг ашгийн бус байгууллагын хэрэглээ","Household consumption, NPISHs consumption",10771781.9,2016-09-30,Household consumption
+873,DT_NSO_0500_022V2,10102,Төрийн байгууллагын хэрэглээ,Government consumption,2824605.4,2016-09-30,Government consumption
+874,DT_NSO_0500_022V2,102,Хөрөнгийн нийт хуримтлал,Gross capital formation,3852025.9,2016-09-30,Capital formation
+878,DT_NSO_0500_022V2,10301,"Бараа, үйлчилгээний экспорт",Exports of goods and services,7909160.4,2016-09-30,Exports
+879,DT_NSO_0500_022V2,10302,"Бараа, үйлчилгээний импорт",Imports of goods and services,8822276.9,2016-09-30,Imports
+910,DT_NSO_0500_022V2,1,ДНБ,GDP,10492690.9,2016-06-30,GDP
+912,DT_NSO_0500_022V2,10101,"Өрхийн хэрэглээ, Өрхөд үйлчилдэг ашгийн бус байгууллагын хэрэглээ","Household consumption, NPISHs consumption",7064789.7,2016-06-30,Household consumption
+913,DT_NSO_0500_022V2,10102,Төрийн байгууллагын хэрэглээ,Government consumption,1856170.2,2016-06-30,Government consumption
+914,DT_NSO_0500_022V2,102,Хөрөнгийн нийт хуримтлал,Gross capital formation,2070817.3,2016-06-30,Capital formation
+918,DT_NSO_0500_022V2,10301,"Бараа, үйлчилгээний экспорт",Exports of goods and services,5011982.4,2016-06-30,Exports
+919,DT_NSO_0500_022V2,10302,"Бараа, үйлчилгээний импорт",Imports of goods and services,5511068.7,2016-06-30,Imports
+950,DT_NSO_0500_022V2,1,ДНБ,GDP,4478782.823,2016-03-31,GDP
+952,DT_NSO_0500_022V2,10101,"Өрхийн хэрэглээ, Өрхөд үйлчилдэг ашгийн бус байгууллагын хэрэглээ","Household consumption, NPISHs consumption",3386363.952,2016-03-31,Household consumption
+953,DT_NSO_0500_022V2,10102,Төрийн байгууллагын хэрэглээ,Government consumption,871870.501,2016-03-31,Government consumption
+954,DT_NSO_0500_022V2,102,Хөрөнгийн нийт хуримтлал,Gross capital formation,196405.902,2016-03-31,Capital formation
+958,DT_NSO_0500_022V2,10301,"Бараа, үйлчилгээний экспорт",Exports of goods and services,2254743.735,2016-03-31,Exports
+959,DT_NSO_0500_022V2,10302,"Бараа, үйлчилгээний импорт",Imports of goods and services,2230601.267,2016-03-31,Imports
+990,DT_NSO_0500_022V2,1,ДНБ,GDP,22894780.891,2015-12-31,GDP
+992,DT_NSO_0500_022V2,10101,"Өрхийн хэрэглээ, Өрхөд үйлчилдэг ашгийн бус байгууллагын хэрэглээ","Household consumption, NPISHs consumption",14171855.757,2015-12-31,Household consumption
+993,DT_NSO_0500_022V2,10102,Төрийн байгууллагын хэрэглээ,Government consumption,3404860.061,2015-12-31,Government consumption
+994,DT_NSO_0500_022V2,102,Хөрөнгийн нийт хуримтлал,Gross capital formation,5612391.906,2015-12-31,Capital formation
+998,DT_NSO_0500_022V2,10301,"Бараа, үйлчилгээний экспорт",Exports of goods and services,10115841.49,2015-12-31,Exports
+999,DT_NSO_0500_022V2,10302,"Бараа, үйлчилгээний импорт",Imports of goods and services,10410168.324,2015-12-31,Imports
+1030,DT_NSO_0500_022V2,1,ДНБ,GDP,16753316.819,2015-09-30,GDP
+1032,DT_NSO_0500_022V2,10101,"Өрхийн хэрэглээ, Өрхөд үйлчилдэг ашгийн бус байгууллагын хэрэглээ","Household consumption, NPISHs consumption",10816839.51,2015-09-30,Household consumption
+1033,DT_NSO_0500_022V2,10102,Төрийн байгууллагын хэрэглээ,Government consumption,2408867.752,2015-09-30,Government consumption
+1034,DT_NSO_0500_022V2,102,Хөрөнгийн нийт хуримтлал,Gross capital formation,3590285.486,2015-09-30,Capital formation
+1038,DT_NSO_0500_022V2,10301,"Бараа, үйлчилгээний экспорт",Exports of goods and services,7706340.171,2015-09-30,Exports
+1039,DT_NSO_0500_022V2,10302,"Бараа, үйлчилгээний импорт",Imports of goods and services,7769016.1,2015-09-30,Imports
+1070,DT_NSO_0500_022V2,1,ДНБ,GDP,10339912.539,2015-06-30,GDP
+1072,DT_NSO_0500_022V2,10101,"Өрхийн хэрэглээ, Өрхөд үйлчилдэг ашгийн бус байгууллагын хэрэглээ","Household consumption, NPISHs consumption",7026589.874,2015-06-30,Household consumption
+1073,DT_NSO_0500_022V2,10102,Төрийн байгууллагын хэрэглээ,Government consumption,1655686.083,2015-06-30,Government consumption
+1074,DT_NSO_0500_022V2,102,Хөрөнгийн нийт хуримтлал,Gross capital formation,1795790.076,2015-06-30,Capital formation
+1078,DT_NSO_0500_022V2,10301,"Бараа, үйлчилгээний экспорт",Exports of goods and services,4957798.688,2015-06-30,Exports
+1079,DT_NSO_0500_022V2,10302,"Бараа, үйлчилгээний импорт",Imports of goods and services,5095952.182,2015-06-30,Imports
+1110,DT_NSO_0500_022V2,1,ДНБ,GDP,4357192.653,2015-03-31,GDP
+1112,DT_NSO_0500_022V2,10101,"Өрхийн хэрэглээ, Өрхөд үйлчилдэг ашгийн бус байгууллагын хэрэглээ","Household consumption, NPISHs consumption",3083016.434,2015-03-31,Household consumption
+1113,DT_NSO_0500_022V2,10102,Төрийн байгууллагын хэрэглээ,Government consumption,744351.605,2015-03-31,Government consumption
+1114,DT_NSO_0500_022V2,102,Хөрөнгийн нийт хуримтлал,Gross capital formation,254519.528,2015-03-31,Capital formation
+1118,DT_NSO_0500_022V2,10301,"Бараа, үйлчилгээний экспорт",Exports of goods and services,2375404.765,2015-03-31,Exports
+1119,DT_NSO_0500_022V2,10302,"Бараа, үйлчилгээний импорт",Imports of goods and services,2100099.679,2015-03-31,Imports

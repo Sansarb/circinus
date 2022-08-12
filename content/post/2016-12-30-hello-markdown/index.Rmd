@@ -1,0 +1,23 @@
+---
+title: "Consumer Price Index"
+author: "Sansar.B"
+date: '2022-06-18T21:13:14-05:00'
+categories: R
+tags:
+- R Markdown
+- plot
+- regression
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(collapse = TRUE)
+```
+
+
+```{r echo=FALSE}
+knitr::include_graphics("figures/cpi_food_202205.png")
+
+```
+
+
+
