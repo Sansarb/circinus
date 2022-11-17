@@ -1,0 +1,342 @@
+,TBL_ID,CODE1,SCR_MN1,SCR_ENG1,DTVAL_CO,PERIOD,Sector
+22,DT_NSO_0500_022V1,1,ДНБ,GDP,20264989.5,2022-09-30,GDP
+23,DT_NSO_0500_022V1,101,Хөдөө аж ахуй ойн аж ахуй загас барилт ан агнуур,"Agriculture, forestry and fishing, hunting",3374134.8,2022-09-30,Agriculture
+24,DT_NSO_0500_022V1,102,"Уул уурхай, олборлолт",Mining and quarrying,2131781.7,2022-09-30,Mining
+25,DT_NSO_0500_022V1,103,Боловсруулах үйлдвэрлэл,Processing industries,1354505.3,2022-09-30,Industry
+26,DT_NSO_0500_022V1,104,"Цахилгаан, хий, уур, агааржуулалт","Electricity, gas, steam, air conditioning supply",521999.1,2022-09-30,Electricity
+27,DT_NSO_0500_022V1,105,Барилга,Construction,391923.7,2022-09-30,Construction
+28,DT_NSO_0500_022V1,106,"Бөөний болон жижиглэн худалдаа, машин, мотоциклийн засвар, үйлчилгээ",Wholesale and retail trade; repair of motor vehicles and motorcycles,2184702.0,2022-09-30,Trade
+29,DT_NSO_0500_022V1,107,Тээвэр ба агуулахын үйл ажиллагаа,Transportation and storage,707866.6,2022-09-30,Transportation
+30,DT_NSO_0500_022V1,108,"Мэдээлэл, холбоо",Information and communication,600193.0,2022-09-30,Information
+31,DT_NSO_0500_022V1,109,Үйлчилгээний бусад үйл ажиллагаа,Service,5924657.7,2022-09-30,Service
+32,DT_NSO_0500_022V1,110,Бүтээгдэхүүний цэвэр татвар,Taxes less subsidies on products,3073225.6,2022-09-30,Taxes
+55,DT_NSO_0500_022V1,1,ДНБ,GDP,12791019.0,2022-06-30,GDP
+56,DT_NSO_0500_022V1,101,Хөдөө аж ахуй ойн аж ахуй загас барилт ан агнуур,"Agriculture, forestry and fishing, hunting",2185829.8,2022-06-30,Agriculture
+57,DT_NSO_0500_022V1,102,"Уул уурхай, олборлолт",Mining and quarrying,1149246.6,2022-06-30,Mining
+58,DT_NSO_0500_022V1,103,Боловсруулах үйлдвэрлэл,Processing industries,813775.1,2022-06-30,Industry
+59,DT_NSO_0500_022V1,104,"Цахилгаан, хий, уур, агааржуулалт","Electricity, gas, steam, air conditioning supply",392027.0,2022-06-30,Electricity
+60,DT_NSO_0500_022V1,105,Барилга,Construction,194312.7,2022-06-30,Construction
+61,DT_NSO_0500_022V1,106,"Бөөний болон жижиглэн худалдаа, машин, мотоциклийн засвар, үйлчилгээ",Wholesale and retail trade; repair of motor vehicles and motorcycles,1374744.4,2022-06-30,Trade
+62,DT_NSO_0500_022V1,107,Тээвэр ба агуулахын үйл ажиллагаа,Transportation and storage,307807.5,2022-06-30,Transportation
+63,DT_NSO_0500_022V1,108,"Мэдээлэл, холбоо",Information and communication,406284.7,2022-06-30,Information
+64,DT_NSO_0500_022V1,109,Үйлчилгээний бусад үйл ажиллагаа,Service,3899115.0,2022-06-30,Service
+65,DT_NSO_0500_022V1,110,Бүтээгдэхүүний цэвэр татвар,Taxes less subsidies on products,2067876.3,2022-06-30,Taxes
+88,DT_NSO_0500_022V1,1,ДНБ,GDP,5208108.1,2022-03-31,GDP
+89,DT_NSO_0500_022V1,101,Хөдөө аж ахуй ойн аж ахуй загас барилт ан агнуур,"Agriculture, forestry and fishing, hunting",242793.8,2022-03-31,Agriculture
+90,DT_NSO_0500_022V1,102,"Уул уурхай, олборлолт",Mining and quarrying,555732.1,2022-03-31,Mining
+91,DT_NSO_0500_022V1,103,Боловсруулах үйлдвэрлэл,Processing industries,358282.6,2022-03-31,Industry
+92,DT_NSO_0500_022V1,104,"Цахилгаан, хий, уур, агааржуулалт","Electricity, gas, steam, air conditioning supply",235939.8,2022-03-31,Electricity
+93,DT_NSO_0500_022V1,105,Барилга,Construction,49314.2,2022-03-31,Construction
+94,DT_NSO_0500_022V1,106,"Бөөний болон жижиглэн худалдаа, машин, мотоциклийн засвар, үйлчилгээ",Wholesale and retail trade; repair of motor vehicles and motorcycles,571750.3,2022-03-31,Trade
+95,DT_NSO_0500_022V1,107,Тээвэр ба агуулахын үйл ажиллагаа,Transportation and storage,144996.2,2022-03-31,Transportation
+96,DT_NSO_0500_022V1,108,"Мэдээлэл, холбоо",Information and communication,177508.1,2022-03-31,Information
+97,DT_NSO_0500_022V1,109,Үйлчилгээний бусад үйл ажиллагаа,Service,1920911.4,2022-03-31,Service
+98,DT_NSO_0500_022V1,110,Бүтээгдэхүүний цэвэр татвар,Taxes less subsidies on products,950879.6,2022-03-31,Taxes
+121,DT_NSO_0500_022V1,1,ДНБ,GDP,27091663.8,2021-12-31,GDP
+122,DT_NSO_0500_022V1,101,Хөдөө аж ахуй ойн аж ахуй загас барилт ан агнуур,"Agriculture, forestry and fishing, hunting",3796343.9,2021-12-31,Agriculture
+123,DT_NSO_0500_022V1,102,"Уул уурхай, олборлолт",Mining and quarrying,3697863.8,2021-12-31,Mining
+124,DT_NSO_0500_022V1,103,Боловсруулах үйлдвэрлэл,Processing industries,2207879.1,2021-12-31,Industry
+125,DT_NSO_0500_022V1,104,"Цахилгаан, хий, уур, агааржуулалт","Electricity, gas, steam, air conditioning supply",736584.0,2021-12-31,Electricity
+126,DT_NSO_0500_022V1,105,Барилга,Construction,825498.7,2021-12-31,Construction
+127,DT_NSO_0500_022V1,106,"Бөөний болон жижиглэн худалдаа, машин, мотоциклийн засвар, үйлчилгээ",Wholesale and retail trade; repair of motor vehicles and motorcycles,2958487.9,2021-12-31,Trade
+128,DT_NSO_0500_022V1,107,Тээвэр ба агуулахын үйл ажиллагаа,Transportation and storage,1172464.4,2021-12-31,Transportation
+129,DT_NSO_0500_022V1,108,"Мэдээлэл, холбоо",Information and communication,734363.8,2021-12-31,Information
+130,DT_NSO_0500_022V1,109,Үйлчилгээний бусад үйл ажиллагаа,Service,7760326.8,2021-12-31,Service
+131,DT_NSO_0500_022V1,110,Бүтээгдэхүүний цэвэр татвар,Taxes less subsidies on products,3201851.4,2021-12-31,Taxes
+154,DT_NSO_0500_022V1,1,ДНБ,GDP,19534967.3,2021-09-30,GDP
+155,DT_NSO_0500_022V1,101,Хөдөө аж ахуй ойн аж ахуй загас барилт ан агнуур,"Agriculture, forestry and fishing, hunting",3063212.7,2021-09-30,Agriculture
+156,DT_NSO_0500_022V1,102,"Уул уурхай, олборлолт",Mining and quarrying,2576681.3,2021-09-30,Mining
+157,DT_NSO_0500_022V1,103,Боловсруулах үйлдвэрлэл,Processing industries,1327107.1,2021-09-30,Industry
+158,DT_NSO_0500_022V1,104,"Цахилгаан, хий, уур, агааржуулалт","Electricity, gas, steam, air conditioning supply",499947.2,2021-09-30,Electricity
+159,DT_NSO_0500_022V1,105,Барилга,Construction,377927.8,2021-09-30,Construction
+160,DT_NSO_0500_022V1,106,"Бөөний болон жижиглэн худалдаа, машин, мотоциклийн засвар, үйлчилгээ",Wholesale and retail trade; repair of motor vehicles and motorcycles,1962046.0,2021-09-30,Trade
+161,DT_NSO_0500_022V1,107,Тээвэр ба агуулахын үйл ажиллагаа,Transportation and storage,725307.5,2021-09-30,Transportation
+162,DT_NSO_0500_022V1,108,"Мэдээлэл, холбоо",Information and communication,552034.6,2021-09-30,Information
+163,DT_NSO_0500_022V1,109,Үйлчилгээний бусад үйл ажиллагаа,Service,5703950.2,2021-09-30,Service
+164,DT_NSO_0500_022V1,110,Бүтээгдэхүүний цэвэр татвар,Taxes less subsidies on products,2746752.9,2021-09-30,Taxes
+187,DT_NSO_0500_022V1,1,ДНБ,GDP,12554375.0,2021-06-30,GDP
+188,DT_NSO_0500_022V1,101,Хөдөө аж ахуй ойн аж ахуй загас барилт ан агнуур,"Agriculture, forestry and fishing, hunting",1963205.1,2021-06-30,Agriculture
+189,DT_NSO_0500_022V1,102,"Уул уурхай, олборлолт",Mining and quarrying,1613874.5,2021-06-30,Mining
+190,DT_NSO_0500_022V1,103,Боловсруулах үйлдвэрлэл,Processing industries,831750.8,2021-06-30,Industry
+191,DT_NSO_0500_022V1,104,"Цахилгаан, хий, уур, агааржуулалт","Electricity, gas, steam, air conditioning supply",372691.3,2021-06-30,Electricity
+192,DT_NSO_0500_022V1,105,Барилга,Construction,212860.1,2021-06-30,Construction
+193,DT_NSO_0500_022V1,106,"Бөөний болон жижиглэн худалдаа, машин, мотоциклийн засвар, үйлчилгээ",Wholesale and retail trade; repair of motor vehicles and motorcycles,1224908.3,2021-06-30,Trade
+194,DT_NSO_0500_022V1,107,Тээвэр ба агуулахын үйл ажиллагаа,Transportation and storage,397159.9,2021-06-30,Transportation
+195,DT_NSO_0500_022V1,108,"Мэдээлэл, холбоо",Information and communication,361152.5,2021-06-30,Information
+196,DT_NSO_0500_022V1,109,Үйлчилгээний бусад үйл ажиллагаа,Service,3727513.1,2021-06-30,Service
+197,DT_NSO_0500_022V1,110,Бүтээгдэхүүний цэвэр татвар,Taxes less subsidies on products,1849259.3,2021-06-30,Taxes
+231,DT_NSO_0500_022V1,1,ДНБ,GDP,5420561.8,2021-03-31,GDP
+232,DT_NSO_0500_022V1,101,Хөдөө аж ахуй ойн аж ахуй загас барилт ан агнуур,"Agriculture, forestry and fishing, hunting",218093.9,2021-03-31,Agriculture
+233,DT_NSO_0500_022V1,102,"Уул уурхай, олборлолт",Mining and quarrying,888600.5,2021-03-31,Mining
+234,DT_NSO_0500_022V1,103,Боловсруулах үйлдвэрлэл,Processing industries,398027.0,2021-03-31,Industry
+235,DT_NSO_0500_022V1,104,"Цахилгаан, хий, уур, агааржуулалт","Electricity, gas, steam, air conditioning supply",222465.2,2021-03-31,Electricity
+236,DT_NSO_0500_022V1,105,Барилга,Construction,70325.8,2021-03-31,Construction
+237,DT_NSO_0500_022V1,106,"Бөөний болон жижиглэн худалдаа, машин, мотоциклийн засвар, үйлчилгээ",Wholesale and retail trade; repair of motor vehicles and motorcycles,533071.0,2021-03-31,Trade
+238,DT_NSO_0500_022V1,107,Тээвэр ба агуулахын үйл ажиллагаа,Transportation and storage,218835.3,2021-03-31,Transportation
+239,DT_NSO_0500_022V1,108,"Мэдээлэл, холбоо",Information and communication,154543.7,2021-03-31,Information
+240,DT_NSO_0500_022V1,109,Үйлчилгээний бусад үйл ажиллагаа,Service,1850284.5,2021-03-31,Service
+241,DT_NSO_0500_022V1,110,Бүтээгдэхүүний цэвэр татвар,Taxes less subsidies on products,866314.8,2021-03-31,Taxes
+275,DT_NSO_0500_022V1,1,ДНБ,GDP,26655376.727,2020-12-31,GDP
+276,DT_NSO_0500_022V1,101,Хөдөө аж ахуй ойн аж ахуй загас барилт ан агнуур,"Agriculture, forestry and fishing, hunting",4018677.782,2020-12-31,Agriculture
+277,DT_NSO_0500_022V1,102,"Уул уурхай, олборлолт",Mining and quarrying,3667045.94,2020-12-31,Mining
+278,DT_NSO_0500_022V1,103,Боловсруулах үйлдвэрлэл,Processing industries,2227252.867,2020-12-31,Industry
+279,DT_NSO_0500_022V1,104,"Цахилгаан, хий, уур, агааржуулалт","Electricity, gas, steam, air conditioning supply",673122.363,2020-12-31,Electricity
+280,DT_NSO_0500_022V1,105,Барилга,Construction,1069967.326,2020-12-31,Construction
+281,DT_NSO_0500_022V1,106,"Бөөний болон жижиглэн худалдаа, машин, мотоциклийн засвар, үйлчилгээ",Wholesale and retail trade; repair of motor vehicles and motorcycles,2797263.723,2020-12-31,Trade
+282,DT_NSO_0500_022V1,107,Тээвэр ба агуулахын үйл ажиллагаа,Transportation and storage,1264613.357,2020-12-31,Transportation
+283,DT_NSO_0500_022V1,108,"Мэдээлэл, холбоо",Information and communication,608660.8,2020-12-31,Information
+284,DT_NSO_0500_022V1,109,Үйлчилгээний бусад үйл ажиллагаа,Service,7475897.213,2020-12-31,Service
+285,DT_NSO_0500_022V1,110,Бүтээгдэхүүний цэвэр татвар,Taxes less subsidies on products,2852875.353,2020-12-31,Taxes
+319,DT_NSO_0500_022V1,1,ДНБ,GDP,18835668.749,2020-09-30,GDP
+320,DT_NSO_0500_022V1,101,Хөдөө аж ахуй ойн аж ахуй загас барилт ан агнуур,"Agriculture, forestry and fishing, hunting",3213550.242,2020-09-30,Agriculture
+321,DT_NSO_0500_022V1,102,"Уул уурхай, олборлолт",Mining and quarrying,2324399.165,2020-09-30,Mining
+322,DT_NSO_0500_022V1,103,Боловсруулах үйлдвэрлэл,Processing industries,1259948.778,2020-09-30,Industry
+323,DT_NSO_0500_022V1,104,"Цахилгаан, хий, уур, агааржуулалт","Electricity, gas, steam, air conditioning supply",458272.716,2020-09-30,Electricity
+324,DT_NSO_0500_022V1,105,Барилга,Construction,541127.002,2020-09-30,Construction
+325,DT_NSO_0500_022V1,106,"Бөөний болон жижиглэн худалдаа, машин, мотоциклийн засвар, үйлчилгээ",Wholesale and retail trade; repair of motor vehicles and motorcycles,1866879.41,2020-09-30,Trade
+326,DT_NSO_0500_022V1,107,Тээвэр ба агуулахын үйл ажиллагаа,Transportation and storage,720750.092,2020-09-30,Transportation
+327,DT_NSO_0500_022V1,108,"Мэдээлэл, холбоо",Information and communication,468619.557,2020-09-30,Information
+328,DT_NSO_0500_022V1,109,Үйлчилгээний бусад үйл ажиллагаа,Service,5590576.097,2020-09-30,Service
+329,DT_NSO_0500_022V1,110,Бүтээгдэхүүний цэвэр татвар,Taxes less subsidies on products,2391545.688,2020-09-30,Taxes
+363,DT_NSO_0500_022V1,1,ДНБ,GDP,11810996.846,2020-06-30,GDP
+364,DT_NSO_0500_022V1,101,Хөдөө аж ахуй ойн аж ахуй загас барилт ан агнуур,"Agriculture, forestry and fishing, hunting",2057361.369,2020-06-30,Agriculture
+365,DT_NSO_0500_022V1,102,"Уул уурхай, олборлолт",Mining and quarrying,1306470.452,2020-06-30,Mining
+366,DT_NSO_0500_022V1,103,Боловсруулах үйлдвэрлэл,Processing industries,743927.057,2020-06-30,Industry
+367,DT_NSO_0500_022V1,104,"Цахилгаан, хий, уур, агааржуулалт","Electricity, gas, steam, air conditioning supply",341192.442,2020-06-30,Electricity
+368,DT_NSO_0500_022V1,105,Барилга,Construction,322752.394,2020-06-30,Construction
+369,DT_NSO_0500_022V1,106,"Бөөний болон жижиглэн худалдаа, машин, мотоциклийн засвар, үйлчилгээ",Wholesale and retail trade; repair of motor vehicles and motorcycles,1164262.336,2020-06-30,Trade
+370,DT_NSO_0500_022V1,107,Тээвэр ба агуулахын үйл ажиллагаа,Transportation and storage,360568.024,2020-06-30,Transportation
+371,DT_NSO_0500_022V1,108,"Мэдээлэл, холбоо",Information and communication,302035.339,2020-06-30,Information
+372,DT_NSO_0500_022V1,109,Үйлчилгээний бусад үйл ажиллагаа,Service,3714953.074,2020-06-30,Service
+373,DT_NSO_0500_022V1,110,Бүтээгдэхүүний цэвэр татвар,Taxes less subsidies on products,1497474.358,2020-06-30,Taxes
+407,DT_NSO_0500_022V1,1,ДНБ,GDP,4720726.709,2020-03-31,GDP
+408,DT_NSO_0500_022V1,101,Хөдөө аж ахуй ойн аж ахуй загас барилт ан агнуур,"Agriculture, forestry and fishing, hunting",228373.132,2020-03-31,Agriculture
+409,DT_NSO_0500_022V1,102,"Уул уурхай, олборлолт",Mining and quarrying,641400.822,2020-03-31,Mining
+410,DT_NSO_0500_022V1,103,Боловсруулах үйлдвэрлэл,Processing industries,321443.557,2020-03-31,Industry
+411,DT_NSO_0500_022V1,104,"Цахилгаан, хий, уур, агааржуулалт","Electricity, gas, steam, air conditioning supply",208238.674,2020-03-31,Electricity
+412,DT_NSO_0500_022V1,105,Барилга,Construction,70577.106,2020-03-31,Construction
+413,DT_NSO_0500_022V1,106,"Бөөний болон жижиглэн худалдаа, машин, мотоциклийн засвар, үйлчилгээ",Wholesale and retail trade; repair of motor vehicles and motorcycles,502436.718,2020-03-31,Trade
+414,DT_NSO_0500_022V1,107,Тээвэр ба агуулахын үйл ажиллагаа,Transportation and storage,184321.752,2020-03-31,Transportation
+415,DT_NSO_0500_022V1,108,"Мэдээлэл, холбоо",Information and communication,135951.773,2020-03-31,Information
+416,DT_NSO_0500_022V1,109,Үйлчилгээний бусад үйл ажиллагаа,Service,1836058.747,2020-03-31,Service
+417,DT_NSO_0500_022V1,110,Бүтээгдэхүүний цэвэр татвар,Taxes less subsidies on products,591924.428,2020-03-31,Taxes
+451,DT_NSO_0500_022V1,1,ДНБ,GDP,27928278.387,2019-12-31,GDP
+452,DT_NSO_0500_022V1,101,Хөдөө аж ахуй ойн аж ахуй загас барилт ан агнуур,"Agriculture, forestry and fishing, hunting",3797450.024,2019-12-31,Agriculture
+453,DT_NSO_0500_022V1,102,"Уул уурхай, олборлолт",Mining and quarrying,4068656.632,2019-12-31,Mining
+454,DT_NSO_0500_022V1,103,Боловсруулах үйлдвэрлэл,Processing industries,2153061.042,2019-12-31,Industry
+455,DT_NSO_0500_022V1,104,"Цахилгаан, хий, уур, агааржуулалт","Electricity, gas, steam, air conditioning supply",661486.41,2019-12-31,Electricity
+456,DT_NSO_0500_022V1,105,Барилга,Construction,1105277.916,2019-12-31,Construction
+457,DT_NSO_0500_022V1,106,"Бөөний болон жижиглэн худалдаа, машин, мотоциклийн засвар, үйлчилгээ",Wholesale and retail trade; repair of motor vehicles and motorcycles,3195458.033,2019-12-31,Trade
+458,DT_NSO_0500_022V1,107,Тээвэр ба агуулахын үйл ажиллагаа,Transportation and storage,1546746.276,2019-12-31,Transportation
+459,DT_NSO_0500_022V1,108,"Мэдээлэл, холбоо",Information and communication,578493.962,2019-12-31,Information
+460,DT_NSO_0500_022V1,109,Үйлчилгээний бусад үйл ажиллагаа,Service,7673577.746,2019-12-31,Service
+461,DT_NSO_0500_022V1,110,Бүтээгдэхүүний цэвэр татвар,Taxes less subsidies on products,3148070.346,2019-12-31,Taxes
+495,DT_NSO_0500_022V1,1,ДНБ,GDP,20188468.286,2019-09-30,GDP
+496,DT_NSO_0500_022V1,101,Хөдөө аж ахуй ойн аж ахуй загас барилт ан агнуур,"Agriculture, forestry and fishing, hunting",2900437.269,2019-09-30,Agriculture
+497,DT_NSO_0500_022V1,102,"Уул уурхай, олборлолт",Mining and quarrying,2982936.905,2019-09-30,Mining
+498,DT_NSO_0500_022V1,103,Боловсруулах үйлдвэрлэл,Processing industries,1338002.332,2019-09-30,Industry
+499,DT_NSO_0500_022V1,104,"Цахилгаан, хий, уур, агааржуулалт","Electricity, gas, steam, air conditioning supply",453403.604,2019-09-30,Electricity
+500,DT_NSO_0500_022V1,105,Барилга,Construction,551707.164,2019-09-30,Construction
+501,DT_NSO_0500_022V1,106,"Бөөний болон жижиглэн худалдаа, машин, мотоциклийн засвар, үйлчилгээ",Wholesale and retail trade; repair of motor vehicles and motorcycles,2191488.621,2019-09-30,Trade
+502,DT_NSO_0500_022V1,107,Тээвэр ба агуулахын үйл ажиллагаа,Transportation and storage,942941.265,2019-09-30,Transportation
+503,DT_NSO_0500_022V1,108,"Мэдээлэл, холбоо",Information and communication,444097.531,2019-09-30,Information
+504,DT_NSO_0500_022V1,109,Үйлчилгээний бусад үйл ажиллагаа,Service,5761702.913,2019-09-30,Service
+505,DT_NSO_0500_022V1,110,Бүтээгдэхүүний цэвэр татвар,Taxes less subsidies on products,2621750.683,2019-09-30,Taxes
+539,DT_NSO_0500_022V1,1,ДНБ,GDP,12973039.54,2019-06-30,GDP
+540,DT_NSO_0500_022V1,101,Хөдөө аж ахуй ойн аж ахуй загас барилт ан агнуур,"Agriculture, forestry and fishing, hunting",1830496.098,2019-06-30,Agriculture
+541,DT_NSO_0500_022V1,102,"Уул уурхай, олборлолт",Mining and quarrying,1907358.08,2019-06-30,Mining
+542,DT_NSO_0500_022V1,103,Боловсруулах үйлдвэрлэл,Processing industries,790574.173,2019-06-30,Industry
+543,DT_NSO_0500_022V1,104,"Цахилгаан, хий, уур, агааржуулалт","Electricity, gas, steam, air conditioning supply",333660.876,2019-06-30,Electricity
+544,DT_NSO_0500_022V1,105,Барилга,Construction,328662.278,2019-06-30,Construction
+545,DT_NSO_0500_022V1,106,"Бөөний болон жижиглэн худалдаа, машин, мотоциклийн засвар, үйлчилгээ",Wholesale and retail trade; repair of motor vehicles and motorcycles,1370562.67,2019-06-30,Trade
+546,DT_NSO_0500_022V1,107,Тээвэр ба агуулахын үйл ажиллагаа,Transportation and storage,531782.304,2019-06-30,Transportation
+547,DT_NSO_0500_022V1,108,"Мэдээлэл, холбоо",Information and communication,286347.31,2019-06-30,Information
+548,DT_NSO_0500_022V1,109,Үйлчилгээний бусад үйл ажиллагаа,Service,3883192.284,2019-06-30,Service
+549,DT_NSO_0500_022V1,110,Бүтээгдэхүүний цэвэр татвар,Taxes less subsidies on products,1710403.468,2019-06-30,Taxes
+583,DT_NSO_0500_022V1,1,ДНБ,GDP,5252559.374,2019-03-31,GDP
+584,DT_NSO_0500_022V1,101,Хөдөө аж ахуй ойн аж ахуй загас барилт ан агнуур,"Agriculture, forestry and fishing, hunting",203926.602,2019-03-31,Agriculture
+585,DT_NSO_0500_022V1,102,"Уул уурхай, олборлолт",Mining and quarrying,955834.001,2019-03-31,Mining
+586,DT_NSO_0500_022V1,103,Боловсруулах үйлдвэрлэл,Processing industries,317701.28,2019-03-31,Industry
+587,DT_NSO_0500_022V1,104,"Цахилгаан, хий, уур, агааржуулалт","Electricity, gas, steam, air conditioning supply",197308.743,2019-03-31,Electricity
+588,DT_NSO_0500_022V1,105,Барилга,Construction,62439.549,2019-03-31,Construction
+589,DT_NSO_0500_022V1,106,"Бөөний болон жижиглэн худалдаа, машин, мотоциклийн засвар, үйлчилгээ",Wholesale and retail trade; repair of motor vehicles and motorcycles,581267.412,2019-03-31,Trade
+590,DT_NSO_0500_022V1,107,Тээвэр ба агуулахын үйл ажиллагаа,Transportation and storage,267255.606,2019-03-31,Transportation
+591,DT_NSO_0500_022V1,108,"Мэдээлэл, холбоо",Information and communication,129255.794,2019-03-31,Information
+592,DT_NSO_0500_022V1,109,Үйлчилгээний бусад үйл ажиллагаа,Service,1893362.59,2019-03-31,Service
+593,DT_NSO_0500_022V1,110,Бүтээгдэхүүний цэвэр татвар,Taxes less subsidies on products,644207.798,2019-03-31,Taxes
+627,DT_NSO_0500_022V1,1,ДНБ,GDP,26446671.274,2018-12-31,GDP
+628,DT_NSO_0500_022V1,101,Хөдөө аж ахуй ойн аж ахуй загас барилт ан агнуур,"Agriculture, forestry and fishing, hunting",3608039.111,2018-12-31,Agriculture
+629,DT_NSO_0500_022V1,102,"Уул уурхай, олборлолт",Mining and quarrying,4134825.454,2018-12-31,Mining
+630,DT_NSO_0500_022V1,103,Боловсруулах үйлдвэрлэл,Processing industries,2073929.212,2018-12-31,Industry
+631,DT_NSO_0500_022V1,104,"Цахилгаан, хий, уур, агааржуулалт","Electricity, gas, steam, air conditioning supply",622177.35,2018-12-31,Electricity
+632,DT_NSO_0500_022V1,105,Барилга,Construction,918584.703,2018-12-31,Construction
+633,DT_NSO_0500_022V1,106,"Бөөний болон жижиглэн худалдаа, машин, мотоциклийн засвар, үйлчилгээ",Wholesale and retail trade; repair of motor vehicles and motorcycles,2880993.115,2018-12-31,Trade
+634,DT_NSO_0500_022V1,107,Тээвэр ба агуулахын үйл ажиллагаа,Transportation and storage,1481887.66,2018-12-31,Transportation
+635,DT_NSO_0500_022V1,108,"Мэдээлэл, холбоо",Information and communication,515896.073,2018-12-31,Information
+636,DT_NSO_0500_022V1,109,Үйлчилгээний бусад үйл ажиллагаа,Service,7337898.166,2018-12-31,Service
+637,DT_NSO_0500_022V1,110,Бүтээгдэхүүний цэвэр татвар,Taxes less subsidies on products,2872440.43,2018-12-31,Taxes
+671,DT_NSO_0500_022V1,1,ДНБ,GDP,18903900.97,2018-09-30,GDP
+672,DT_NSO_0500_022V1,101,Хөдөө аж ахуй ойн аж ахуй загас барилт ан агнуур,"Agriculture, forestry and fishing, hunting",2866382.05,2018-09-30,Agriculture
+673,DT_NSO_0500_022V1,102,"Уул уурхай, олборлолт",Mining and quarrying,2803265.576,2018-09-30,Mining
+674,DT_NSO_0500_022V1,103,Боловсруулах үйлдвэрлэл,Processing industries,1303992.867,2018-09-30,Industry
+675,DT_NSO_0500_022V1,104,"Цахилгаан, хий, уур, агааржуулалт","Electricity, gas, steam, air conditioning supply",430893.647,2018-09-30,Electricity
+676,DT_NSO_0500_022V1,105,Барилга,Construction,472328.483,2018-09-30,Construction
+677,DT_NSO_0500_022V1,106,"Бөөний болон жижиглэн худалдаа, машин, мотоциклийн засвар, үйлчилгээ",Wholesale and retail trade; repair of motor vehicles and motorcycles,1916093.324,2018-09-30,Trade
+678,DT_NSO_0500_022V1,107,Тээвэр ба агуулахын үйл ажиллагаа,Transportation and storage,850206.553,2018-09-30,Transportation
+679,DT_NSO_0500_022V1,108,"Мэдээлэл, холбоо",Information and communication,392057.133,2018-09-30,Information
+680,DT_NSO_0500_022V1,109,Үйлчилгээний бусад үйл ажиллагаа,Service,5503528.77,2018-09-30,Service
+681,DT_NSO_0500_022V1,110,Бүтээгдэхүүний цэвэр татвар,Taxes less subsidies on products,2365152.567,2018-09-30,Taxes
+715,DT_NSO_0500_022V1,1,ДНБ,GDP,12062125.89,2018-06-30,GDP
+716,DT_NSO_0500_022V1,101,Хөдөө аж ахуй ойн аж ахуй загас барилт ан агнуур,"Agriculture, forestry and fishing, hunting",1794680.595,2018-06-30,Agriculture
+717,DT_NSO_0500_022V1,102,"Уул уурхай, олборлолт",Mining and quarrying,1700455.526,2018-06-30,Mining
+718,DT_NSO_0500_022V1,103,Боловсруулах үйлдвэрлэл,Processing industries,781375.079,2018-06-30,Industry
+719,DT_NSO_0500_022V1,104,"Цахилгаан, хий, уур, агааржуулалт","Electricity, gas, steam, air conditioning supply",318731.305,2018-06-30,Electricity
+720,DT_NSO_0500_022V1,105,Барилга,Construction,284345.688,2018-06-30,Construction
+721,DT_NSO_0500_022V1,106,"Бөөний болон жижиглэн худалдаа, машин, мотоциклийн засвар, үйлчилгээ",Wholesale and retail trade; repair of motor vehicles and motorcycles,1181460.679,2018-06-30,Trade
+722,DT_NSO_0500_022V1,107,Тээвэр ба агуулахын үйл ажиллагаа,Transportation and storage,500339.843,2018-06-30,Transportation
+723,DT_NSO_0500_022V1,108,"Мэдээлэл, холбоо",Information and communication,247157.839,2018-06-30,Information
+724,DT_NSO_0500_022V1,109,Үйлчилгээний бусад үйл ажиллагаа,Service,3680791.258,2018-06-30,Service
+725,DT_NSO_0500_022V1,110,Бүтээгдэхүүний цэвэр татвар,Taxes less subsidies on products,1572788.078,2018-06-30,Taxes
+759,DT_NSO_0500_022V1,1,ДНБ,GDP,4836449.592,2018-03-31,GDP
+760,DT_NSO_0500_022V1,101,Хөдөө аж ахуй ойн аж ахуй загас барилт ан агнуур,"Agriculture, forestry and fishing, hunting",201763.857,2018-03-31,Agriculture
+761,DT_NSO_0500_022V1,102,"Уул уурхай, олборлолт",Mining and quarrying,827384.604,2018-03-31,Mining
+762,DT_NSO_0500_022V1,103,Боловсруулах үйлдвэрлэл,Processing industries,304595.948,2018-03-31,Industry
+763,DT_NSO_0500_022V1,104,"Цахилгаан, хий, уур, агааржуулалт","Electricity, gas, steam, air conditioning supply",192059.871,2018-03-31,Electricity
+764,DT_NSO_0500_022V1,105,Барилга,Construction,54630.404,2018-03-31,Construction
+765,DT_NSO_0500_022V1,106,"Бөөний болон жижиглэн худалдаа, машин, мотоциклийн засвар, үйлчилгээ",Wholesale and retail trade; repair of motor vehicles and motorcycles,499184.761,2018-03-31,Trade
+766,DT_NSO_0500_022V1,107,Тээвэр ба агуулахын үйл ажиллагаа,Transportation and storage,242474.548,2018-03-31,Transportation
+767,DT_NSO_0500_022V1,108,"Мэдээлэл, холбоо",Information and communication,111588.479,2018-03-31,Information
+768,DT_NSO_0500_022V1,109,Үйлчилгээний бусад үйл ажиллагаа,Service,1810876.027,2018-03-31,Service
+769,DT_NSO_0500_022V1,110,Бүтээгдэхүүний цэвэр татвар,Taxes less subsidies on products,591891.094,2018-03-31,Taxes
+803,DT_NSO_0500_022V1,1,ДНБ,GDP,24545640.704,2017-12-31,GDP
+804,DT_NSO_0500_022V1,101,Хөдөө аж ахуй ойн аж ахуй загас барилт ан агнуур,"Agriculture, forestry and fishing, hunting",3387566.081,2017-12-31,Agriculture
+805,DT_NSO_0500_022V1,102,"Уул уурхай, олборлолт",Mining and quarrying,3924661.015,2017-12-31,Mining
+806,DT_NSO_0500_022V1,103,Боловсруулах үйлдвэрлэл,Processing industries,1734894.354,2017-12-31,Industry
+807,DT_NSO_0500_022V1,104,"Цахилгаан, хий, уур, агааржуулалт","Electricity, gas, steam, air conditioning supply",581299.933,2017-12-31,Electricity
+808,DT_NSO_0500_022V1,105,Барилга,Construction,902620.768,2017-12-31,Construction
+809,DT_NSO_0500_022V1,106,"Бөөний болон жижиглэн худалдаа, машин, мотоциклийн засвар, үйлчилгээ",Wholesale and retail trade; repair of motor vehicles and motorcycles,2876892.548,2017-12-31,Trade
+810,DT_NSO_0500_022V1,107,Тээвэр ба агуулахын үйл ажиллагаа,Transportation and storage,1292994.541,2017-12-31,Transportation
+811,DT_NSO_0500_022V1,108,"Мэдээлэл, холбоо",Information and communication,460336.731,2017-12-31,Information
+812,DT_NSO_0500_022V1,109,Үйлчилгээний бусад үйл ажиллагаа,Service,6998972.188,2017-12-31,Service
+813,DT_NSO_0500_022V1,110,Бүтээгдэхүүний цэвэр татвар,Taxes less subsidies on products,2385402.545,2017-12-31,Taxes
+847,DT_NSO_0500_022V1,1,ДНБ,GDP,17670868.724,2017-09-30,GDP
+848,DT_NSO_0500_022V1,101,Хөдөө аж ахуй ойн аж ахуй загас барилт ан агнуур,"Agriculture, forestry and fishing, hunting",2746718.513,2017-09-30,Agriculture
+849,DT_NSO_0500_022V1,102,"Уул уурхай, олборлолт",Mining and quarrying,2768662.489,2017-09-30,Mining
+850,DT_NSO_0500_022V1,103,Боловсруулах үйлдвэрлэл,Processing industries,1148525.782,2017-09-30,Industry
+851,DT_NSO_0500_022V1,104,"Цахилгаан, хий, уур, агааржуулалт","Electricity, gas, steam, air conditioning supply",400524.867,2017-09-30,Electricity
+852,DT_NSO_0500_022V1,105,Барилга,Construction,490520.424,2017-09-30,Construction
+853,DT_NSO_0500_022V1,106,"Бөөний болон жижиглэн худалдаа, машин, мотоциклийн засвар, үйлчилгээ",Wholesale and retail trade; repair of motor vehicles and motorcycles,1871780.682,2017-09-30,Trade
+854,DT_NSO_0500_022V1,107,Тээвэр ба агуулахын үйл ажиллагаа,Transportation and storage,745246.16,2017-09-30,Transportation
+855,DT_NSO_0500_022V1,108,"Мэдээлэл, холбоо",Information and communication,342304.588,2017-09-30,Information
+856,DT_NSO_0500_022V1,109,Үйлчилгээний бусад үйл ажиллагаа,Service,5234295.242,2017-09-30,Service
+857,DT_NSO_0500_022V1,110,Бүтээгдэхүүний цэвэр татвар,Taxes less subsidies on products,1922289.976,2017-09-30,Taxes
+891,DT_NSO_0500_022V1,1,ДНБ,GDP,11282365.808,2017-06-30,GDP
+892,DT_NSO_0500_022V1,101,Хөдөө аж ахуй ойн аж ахуй загас барилт ан агнуур,"Agriculture, forestry and fishing, hunting",1733656.251,2017-06-30,Agriculture
+893,DT_NSO_0500_022V1,102,"Уул уурхай, олборлолт",Mining and quarrying,1650097.77,2017-06-30,Mining
+894,DT_NSO_0500_022V1,103,Боловсруулах үйлдвэрлэл,Processing industries,665447.553,2017-06-30,Industry
+895,DT_NSO_0500_022V1,104,"Цахилгаан, хий, уур, агааржуулалт","Electricity, gas, steam, air conditioning supply",296657.968,2017-06-30,Electricity
+896,DT_NSO_0500_022V1,105,Барилга,Construction,296765.366,2017-06-30,Construction
+897,DT_NSO_0500_022V1,106,"Бөөний болон жижиглэн худалдаа, машин, мотоциклийн засвар, үйлчилгээ",Wholesale and retail trade; repair of motor vehicles and motorcycles,1127286.132,2017-06-30,Trade
+898,DT_NSO_0500_022V1,107,Тээвэр ба агуулахын үйл ажиллагаа,Transportation and storage,483183.869,2017-06-30,Transportation
+899,DT_NSO_0500_022V1,108,"Мэдээлэл, холбоо",Information and communication,228707.911,2017-06-30,Information
+900,DT_NSO_0500_022V1,109,Үйлчилгээний бусад үйл ажиллагаа,Service,3507178.964,2017-06-30,Service
+901,DT_NSO_0500_022V1,110,Бүтээгдэхүүний цэвэр татвар,Taxes less subsidies on products,1293384.024,2017-06-30,Taxes
+935,DT_NSO_0500_022V1,1,ДНБ,GDP,4550537.5,2017-03-31,GDP
+936,DT_NSO_0500_022V1,101,Хөдөө аж ахуй ойн аж ахуй загас барилт ан агнуур,"Agriculture, forestry and fishing, hunting",192924.963,2017-03-31,Agriculture
+937,DT_NSO_0500_022V1,102,"Уул уурхай, олборлолт",Mining and quarrying,797260.148,2017-03-31,Mining
+938,DT_NSO_0500_022V1,103,Боловсруулах үйлдвэрлэл,Processing industries,275574.591,2017-03-31,Industry
+939,DT_NSO_0500_022V1,104,"Цахилгаан, хий, уур, агааржуулалт","Electricity, gas, steam, air conditioning supply",176064.116,2017-03-31,Electricity
+940,DT_NSO_0500_022V1,105,Барилга,Construction,47824.411,2017-03-31,Construction
+941,DT_NSO_0500_022V1,106,"Бөөний болон жижиглэн худалдаа, машин, мотоциклийн засвар, үйлчилгээ",Wholesale and retail trade; repair of motor vehicles and motorcycles,480421.094,2017-03-31,Trade
+942,DT_NSO_0500_022V1,107,Тээвэр ба агуулахын үйл ажиллагаа,Transportation and storage,248122.695,2017-03-31,Transportation
+943,DT_NSO_0500_022V1,108,"Мэдээлэл, холбоо",Information and communication,109949.238,2017-03-31,Information
+944,DT_NSO_0500_022V1,109,Үйлчилгээний бусад үйл ажиллагаа,Service,1718031.571,2017-03-31,Service
+945,DT_NSO_0500_022V1,110,Бүтээгдэхүүний цэвэр татвар,Taxes less subsidies on products,504364.672,2017-03-31,Taxes
+979,DT_NSO_0500_022V1,1,ДНБ,GDP,23235863.785,2016-12-31,GDP
+980,DT_NSO_0500_022V1,101,Хөдөө аж ахуй ойн аж ахуй загас барилт ан агнуур,"Agriculture, forestry and fishing, hunting",3397472.228,2016-12-31,Agriculture
+981,DT_NSO_0500_022V1,102,"Уул уурхай, олборлолт",Mining and quarrying,4083133.185,2016-12-31,Mining
+982,DT_NSO_0500_022V1,103,Боловсруулах үйлдвэрлэл,Processing industries,1490682.723,2016-12-31,Industry
+983,DT_NSO_0500_022V1,104,"Цахилгаан, хий, уур, агааржуулалт","Electricity, gas, steam, air conditioning supply",556968.709,2016-12-31,Electricity
+984,DT_NSO_0500_022V1,105,Барилга,Construction,914725.632,2016-12-31,Construction
+985,DT_NSO_0500_022V1,106,"Бөөний болон жижиглэн худалдаа, машин, мотоциклийн засвар, үйлчилгээ",Wholesale and retail trade; repair of motor vehicles and motorcycles,2659974.536,2016-12-31,Trade
+986,DT_NSO_0500_022V1,107,Тээвэр ба агуулахын үйл ажиллагаа,Transportation and storage,1280603.195,2016-12-31,Transportation
+987,DT_NSO_0500_022V1,108,"Мэдээлэл, холбоо",Information and communication,482029.746,2016-12-31,Information
+988,DT_NSO_0500_022V1,109,Үйлчилгээний бусад үйл ажиллагаа,Service,6435512.05,2016-12-31,Service
+989,DT_NSO_0500_022V1,110,Бүтээгдэхүүний цэвэр татвар,Taxes less subsidies on products,1934761.781,2016-12-31,Taxes
+1023,DT_NSO_0500_022V1,1,ДНБ,GDP,16646048.148,2016-09-30,GDP
+1024,DT_NSO_0500_022V1,101,Хөдөө аж ахуй ойн аж ахуй загас барилт ан агнуур,"Agriculture, forestry and fishing, hunting",2705829.881,2016-09-30,Agriculture
+1025,DT_NSO_0500_022V1,102,"Уул уурхай, олборлолт",Mining and quarrying,2752732.312,2016-09-30,Mining
+1026,DT_NSO_0500_022V1,103,Боловсруулах үйлдвэрлэл,Processing industries,996713.061,2016-09-30,Industry
+1027,DT_NSO_0500_022V1,104,"Цахилгаан, хий, уур, агааржуулалт","Electricity, gas, steam, air conditioning supply",382395.04,2016-09-30,Electricity
+1028,DT_NSO_0500_022V1,105,Барилга,Construction,562381.691,2016-09-30,Construction
+1029,DT_NSO_0500_022V1,106,"Бөөний болон жижиглэн худалдаа, машин, мотоциклийн засвар, үйлчилгээ",Wholesale and retail trade; repair of motor vehicles and motorcycles,1697291.1,2016-09-30,Trade
+1030,DT_NSO_0500_022V1,107,Тээвэр ба агуулахын үйл ажиллагаа,Transportation and storage,754385.639,2016-09-30,Transportation
+1031,DT_NSO_0500_022V1,108,"Мэдээлэл, холбоо",Information and communication,364657.454,2016-09-30,Information
+1032,DT_NSO_0500_022V1,109,Үйлчилгээний бусад үйл ажиллагаа,Service,4886888.701,2016-09-30,Service
+1033,DT_NSO_0500_022V1,110,Бүтээгдэхүүний цэвэр татвар,Taxes less subsidies on products,1542773.269,2016-09-30,Taxes
+1067,DT_NSO_0500_022V1,1,ДНБ,GDP,10655974.269,2016-06-30,GDP
+1068,DT_NSO_0500_022V1,101,Хөдөө аж ахуй ойн аж ахуй загас барилт ан агнуур,"Agriculture, forestry and fishing, hunting",1715572.251,2016-06-30,Agriculture
+1069,DT_NSO_0500_022V1,102,"Уул уурхай, олборлолт",Mining and quarrying,1731613.919,2016-06-30,Mining
+1070,DT_NSO_0500_022V1,103,Боловсруулах үйлдвэрлэл,Processing industries,576737.91,2016-06-30,Industry
+1071,DT_NSO_0500_022V1,104,"Цахилгаан, хий, уур, агааржуулалт","Electricity, gas, steam, air conditioning supply",284570.985,2016-06-30,Electricity
+1072,DT_NSO_0500_022V1,105,Барилга,Construction,347450.14,2016-06-30,Construction
+1073,DT_NSO_0500_022V1,106,"Бөөний болон жижиглэн худалдаа, машин, мотоциклийн засвар, үйлчилгээ",Wholesale and retail trade; repair of motor vehicles and motorcycles,991997.268,2016-06-30,Trade
+1074,DT_NSO_0500_022V1,107,Тээвэр ба агуулахын үйл ажиллагаа,Transportation and storage,477997.357,2016-06-30,Transportation
+1075,DT_NSO_0500_022V1,108,"Мэдээлэл, холбоо",Information and communication,244067.508,2016-06-30,Information
+1076,DT_NSO_0500_022V1,109,Үйлчилгээний бусад үйл ажиллагаа,Service,3269017.991,2016-06-30,Service
+1077,DT_NSO_0500_022V1,110,Бүтээгдэхүүний цэвэр татвар,Taxes less subsidies on products,1016948.939,2016-06-30,Taxes
+1111,DT_NSO_0500_022V1,1,ДНБ,GDP,4302469.585,2016-03-31,GDP
+1112,DT_NSO_0500_022V1,101,Хөдөө аж ахуй ойн аж ахуй загас барилт ан агнуур,"Agriculture, forestry and fishing, hunting",189605.779,2016-03-31,Agriculture
+1113,DT_NSO_0500_022V1,102,"Уул уурхай, олборлолт",Mining and quarrying,842813.181,2016-03-31,Mining
+1114,DT_NSO_0500_022V1,103,Боловсруулах үйлдвэрлэл,Processing industries,237782.945,2016-03-31,Industry
+1115,DT_NSO_0500_022V1,104,"Цахилгаан, хий, уур, агааржуулалт","Electricity, gas, steam, air conditioning supply",170872.83,2016-03-31,Electricity
+1116,DT_NSO_0500_022V1,105,Барилга,Construction,66340.077,2016-03-31,Construction
+1117,DT_NSO_0500_022V1,106,"Бөөний болон жижиглэн худалдаа, машин, мотоциклийн засвар, үйлчилгээ",Wholesale and retail trade; repair of motor vehicles and motorcycles,404191.232,2016-03-31,Trade
+1118,DT_NSO_0500_022V1,107,Тээвэр ба агуулахын үйл ажиллагаа,Transportation and storage,247143.877,2016-03-31,Transportation
+1119,DT_NSO_0500_022V1,108,"Мэдээлэл, холбоо",Information and communication,120319.096,2016-03-31,Information
+1120,DT_NSO_0500_022V1,109,Үйлчилгээний бусад үйл ажиллагаа,Service,1614800.357,2016-03-31,Service
+1121,DT_NSO_0500_022V1,110,Бүтээгдэхүүний цэвэр татвар,Taxes less subsidies on products,408600.211,2016-03-31,Taxes
+1155,DT_NSO_0500_022V1,1,ДНБ,GDP,22894780.891,2015-12-31,GDP
+1156,DT_NSO_0500_022V1,101,Хөдөө аж ахуй ойн аж ахуй загас барилт ан агнуур,"Agriculture, forestry and fishing, hunting",3223402.72,2015-12-31,Agriculture
+1157,DT_NSO_0500_022V1,102,"Уул уурхай, олборлолт",Mining and quarrying,4150464.287,2015-12-31,Mining
+1158,DT_NSO_0500_022V1,103,Боловсруулах үйлдвэрлэл,Processing industries,1606184.69,2015-12-31,Industry
+1159,DT_NSO_0500_022V1,104,"Цахилгаан, хий, уур, агааржуулалт","Electricity, gas, steam, air conditioning supply",540525.522,2015-12-31,Electricity
+1160,DT_NSO_0500_022V1,105,Барилга,Construction,918316.619,2015-12-31,Construction
+1161,DT_NSO_0500_022V1,106,"Бөөний болон жижиглэн худалдаа, машин, мотоциклийн засвар, үйлчилгээ",Wholesale and retail trade; repair of motor vehicles and motorcycles,2664772.418,2015-12-31,Trade
+1162,DT_NSO_0500_022V1,107,Тээвэр ба агуулахын үйл ажиллагаа,Transportation and storage,1202359.095,2015-12-31,Transportation
+1163,DT_NSO_0500_022V1,108,"Мэдээлэл, холбоо",Information and communication,476929.48,2015-12-31,Information
+1164,DT_NSO_0500_022V1,109,Үйлчилгээний бусад үйл ажиллагаа,Service,6226142.391,2015-12-31,Service
+1165,DT_NSO_0500_022V1,110,Бүтээгдэхүүний цэвэр татвар,Taxes less subsidies on products,1885683.669,2015-12-31,Taxes
+1199,DT_NSO_0500_022V1,1,ДНБ,GDP,16793394.15,2015-09-30,GDP
+1200,DT_NSO_0500_022V1,101,Хөдөө аж ахуй ойн аж ахуй загас барилт ан агнуур,"Agriculture, forestry and fishing, hunting",2613690.058,2015-09-30,Agriculture
+1201,DT_NSO_0500_022V1,102,"Уул уурхай, олборлолт",Mining and quarrying,2818816.911,2015-09-30,Mining
+1202,DT_NSO_0500_022V1,103,Боловсруулах үйлдвэрлэл,Processing industries,1132495.683,2015-09-30,Industry
+1203,DT_NSO_0500_022V1,104,"Цахилгаан, хий, уур, агааржуулалт","Electricity, gas, steam, air conditioning supply",371242.279,2015-09-30,Electricity
+1204,DT_NSO_0500_022V1,105,Барилга,Construction,595520.643,2015-09-30,Construction
+1205,DT_NSO_0500_022V1,106,"Бөөний болон жижиглэн худалдаа, машин, мотоциклийн засвар, үйлчилгээ",Wholesale and retail trade; repair of motor vehicles and motorcycles,1793268.087,2015-09-30,Trade
+1206,DT_NSO_0500_022V1,107,Тээвэр ба агуулахын үйл ажиллагаа,Transportation and storage,757370.639,2015-09-30,Transportation
+1207,DT_NSO_0500_022V1,108,"Мэдээлэл, холбоо",Information and communication,352943.026,2015-09-30,Information
+1208,DT_NSO_0500_022V1,109,Үйлчилгээний бусад үйл ажиллагаа,Service,4784237.147,2015-09-30,Service
+1209,DT_NSO_0500_022V1,110,Бүтээгдэхүүний цэвэр татвар,Taxes less subsidies on products,1573809.677,2015-09-30,Taxes
+1243,DT_NSO_0500_022V1,1,ДНБ,GDP,10489680.348,2015-06-30,GDP
+1244,DT_NSO_0500_022V1,101,Хөдөө аж ахуй ойн аж ахуй загас барилт ан агнуур,"Agriculture, forestry and fishing, hunting",1645230.331,2015-06-30,Agriculture
+1245,DT_NSO_0500_022V1,102,"Уул уурхай, олборлолт",Mining and quarrying,1626157.004,2015-06-30,Mining
+1246,DT_NSO_0500_022V1,103,Боловсруулах үйлдвэрлэл,Processing industries,689070.033,2015-06-30,Industry
+1247,DT_NSO_0500_022V1,104,"Цахилгаан, хий, уур, агааржуулалт","Electricity, gas, steam, air conditioning supply",275032.866,2015-06-30,Electricity
+1248,DT_NSO_0500_022V1,105,Барилга,Construction,296158.502,2015-06-30,Construction
+1249,DT_NSO_0500_022V1,106,"Бөөний болон жижиглэн худалдаа, машин, мотоциклийн засвар, үйлчилгээ",Wholesale and retail trade; repair of motor vehicles and motorcycles,965673.628,2015-06-30,Trade
+1250,DT_NSO_0500_022V1,107,Тээвэр ба агуулахын үйл ажиллагаа,Transportation and storage,491156.735,2015-06-30,Transportation
+1251,DT_NSO_0500_022V1,108,"Мэдээлэл, холбоо",Information and communication,225216.322,2015-06-30,Information
+1252,DT_NSO_0500_022V1,109,Үйлчилгээний бусад үйл ажиллагаа,Service,3184292.051,2015-06-30,Service
+1253,DT_NSO_0500_022V1,110,Бүтээгдэхүүний цэвэр татвар,Taxes less subsidies on products,1091692.875,2015-06-30,Taxes
+1287,DT_NSO_0500_022V1,1,ДНБ,GDP,4193642.47,2015-03-31,GDP
+1288,DT_NSO_0500_022V1,101,Хөдөө аж ахуй ойн аж ахуй загас барилт ан агнуур,"Agriculture, forestry and fishing, hunting",182414.207,2015-03-31,Agriculture
+1289,DT_NSO_0500_022V1,102,"Уул уурхай, олборлолт",Mining and quarrying,741298.186,2015-03-31,Mining
+1290,DT_NSO_0500_022V1,103,Боловсруулах үйлдвэрлэл,Processing industries,285414.858,2015-03-31,Industry
+1291,DT_NSO_0500_022V1,104,"Цахилгаан, хий, уур, агааржуулалт","Electricity, gas, steam, air conditioning supply",165180.252,2015-03-31,Electricity
+1292,DT_NSO_0500_022V1,105,Барилга,Construction,46407.881,2015-03-31,Construction
+1293,DT_NSO_0500_022V1,106,"Бөөний болон жижиглэн худалдаа, машин, мотоциклийн засвар, үйлчилгээ",Wholesale and retail trade; repair of motor vehicles and motorcycles,412983.623,2015-03-31,Trade
+1294,DT_NSO_0500_022V1,107,Тээвэр ба агуулахын үйл ажиллагаа,Transportation and storage,260813.147,2015-03-31,Transportation
+1295,DT_NSO_0500_022V1,108,"Мэдээлэл, холбоо",Information and communication,112414.03,2015-03-31,Information
+1296,DT_NSO_0500_022V1,109,Үйлчилгээний бусад үйл ажиллагаа,Service,1574337.337,2015-03-31,Service
+1297,DT_NSO_0500_022V1,110,Бүтээгдэхүүний цэвэр татвар,Taxes less subsidies on products,412378.949,2015-03-31,Taxes
