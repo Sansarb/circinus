@@ -45,7 +45,6 @@ gdp_2015_2022Q3 <-
   mutate(growth = ifelse(share_qoq<0, "negative", "positive")) %>%
   arrange(desc(share_qoq))
 
-
 plot_2022Q3 <-
   ggplot(
     data = gdp_2015_2022Q3,
