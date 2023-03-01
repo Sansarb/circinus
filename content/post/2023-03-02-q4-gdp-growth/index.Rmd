@@ -1,0 +1,75 @@
+---
+title: Q4 GDP Growth
+author: ''
+date: '2023-03-02'
+slug: q4-gdp-growth
+categories: []
+tags: []
+---
+
+
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(collapse = TRUE)
+```
+
+```{r, echo=FALSE, warning=FALSE, message=FALSE}
+
+library(dplyr)
+library(ggplot2)
+library(viridis)
+library(hrbrthemes)
+#library(tree)
+#library(treemapify)
+
+
+gdp_2015 <- 
+  read.csv("data/gdp_production_2015.csv") %>% 
+  select(Sector, CODE1, PERIOD, DTVAL_CO) %>%
+  arrange(desc(PERIOD, CODE1)) %>% 
+  mutate(DTVAL_CO_LAG = lead(DTVAL_CO, 44)) %>%
+  mutate(QoQ = round((DTVAL_CO/DTVAL_CO_LAG-1)*100,1)) %>% 
+  filter(PERIOD>="2016-03-31", CODE1!=1) %>%
+  group_by(PERIOD) %>%
+  mutate(share = DTVAL_CO_LAG/sum(DTVAL_CO_LAG)) %>%
+  mutate(share_qoq = round(QoQ*share,1)) %>%
+  mutate(growth = ifelse(share_qoq<0, "negative", "positive"))
+
+gdp_2015_2022Q4 <-
+  gdp_2015 %>%
+  filter(
+    PERIOD=="2022-12-31"
+  ) %>% 
+  mutate(growth = ifelse(share_qoq<0, "negative", "positive")) %>%
+  arrange(desc(share_qoq))
+
+plot_2022Q4 <-
+  ggplot(
+    data = gdp_2015_2022Q4,
+    aes(
+      x = reorder(Sector, share_qoq),
+      y = share_qoq,
+      fill = growth
+    )
+  ) + 
+  geom_bar(stat = "identity") + 
+  geom_text(
+    aes(
+      y= share_qoq + 0.2,
+      label=share_qoq,
+      ), 
+    size=2.5
+    ) +
+  labs(title = "GDP Growth (y/y): 4.8% in Q4 2022",
+       subtitle = "Sector Contribution to GDP Growth",
+       x="", y="", 
+       caption = "Data Source: National Statistic Office Of Mongolia") +
+  theme_classic() +
+  coord_flip() +
+  theme(legend.position = "none")
+
+
+plot_2022Q4
+
+```
